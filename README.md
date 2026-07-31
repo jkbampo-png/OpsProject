@@ -6,7 +6,7 @@ This repository showcases projects demonstrating CRM analytics, operational repo
 
 ---
 
-# Featured Project
+# Operations Analytics Case Study
 
 ## Customer Journey & Retention Dashboard
 
