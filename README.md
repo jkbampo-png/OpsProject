@@ -131,7 +131,7 @@ Rather than treating every lead equally, the dashboard measures activation perfo
 
 Comparing activation performance across customer segments helps identify where follow-up processes are effective and where additional workflow optimisation may improve conversion outcomes.
 
-![Segment Performance] <img src="04-Segment%20Performance.png" width="900">
+![Segment Performance] <img src="04-Segment%20Peformance.png" width="900">
 
 ---
 
