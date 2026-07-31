@@ -69,7 +69,7 @@ It enables decision makers to monitor overall performance through a combination 
 
 This dashboard enables leadership to quickly assess pipeline health, monitor conversion performance and identify areas requiring operational intervention.
 
-![Executive Dashboard](01-Executive Dashboard.png)
+![Executive Dashboard](01-Executive Dashboard.png) <img src="01-Executive%20Dashboard.png" width="900">
 
 ---
 
