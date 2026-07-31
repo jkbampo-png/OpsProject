@@ -69,7 +69,7 @@ It enables decision makers to monitor overall performance through a combination 
 
 This dashboard enables leadership to quickly assess pipeline health, monitor conversion performance and identify areas requiring operational intervention.
 
-![Executive Dashboard](01-Executive Dashboard.png) <img src="01-Executive%20Dashboard.png" width="900">
+![Executive Dashboard] <img src="01-Executive%20Dashboard.png" width="900">
 
 ---
 
@@ -91,7 +91,7 @@ Rather than simply reporting totals, the dashboard focuses on measuring operatio
 
 Monitoring conversion performance highlights where friction exists within the customer journey and helps identify opportunities to improve activation, retention and overall operational efficiency.
 
-![Conversion Analysis](02-Conversion Analysis.png)
+![Conversion Analysis] <img src="02-Conversion%20Analysis.png" width="900">
 
 ---
 
@@ -111,7 +111,7 @@ Segmenting leads provides additional context behind conversion performance and s
 
 Understanding which customer segments qualify most successfully enables engagement strategies to become more targeted and data-driven.
 
-![Lead Segmentation](03-Lead Segmentation.png)
+![Lead Segmentation] <img src="03-Lead%20Segmentation.png" width="900">
 
 ---
 
@@ -131,7 +131,7 @@ Rather than treating every lead equally, the dashboard measures activation perfo
 
 Comparing activation performance across customer segments helps identify where follow-up processes are effective and where additional workflow optimisation may improve conversion outcomes.
 
-![Segment Performance](04-Segment Performance.png)
+![Segment Performance] <img src="04-Segment%20Performance.png" width="900">
 
 ---
 
