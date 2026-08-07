@@ -1,183 +1,159 @@
-# Operations Analytics Project
-Operations Analytics | CRM Analytics | Revenue Operations | Process Improvement | Power BI
+# 🚀 Operations Analytics Portfolio
+
+## CRM Analytics | Sales Operations | Revenue Operations | Power BI | Process Improvement | Workflow Automation
 
 Welcome to my Operations Analytics portfolio.
 
-This repository showcases projects demonstrating CRM analytics, operational reporting, KPI design, Power BI dashboards, process improvement and data-driven decision making.
+This repository showcases an end-to-end Operations Analytics case study demonstrating how CRM analytics, KPI reporting, process improvement and data visualisation can be used to improve operational performance and support data-driven decision-making.
+
+The project establishes a **baseline operational framework**, allowing future improvements to be measured objectively once new processes and workflow automations are implemented.
 
 ---
 
-# Operations Analytics Case Study
+# 📖 Project Overview
 
-## Customer Journey & Retention Dashboard
+The objective of this project was to analyse an operational customer journey, identify inefficiencies, and design a structured reporting framework that provides leadership with actionable insights.
 
-This project demonstrates how operational analytics can improve customer retention through KPI design, customer journey analysis, dashboard development and executive reporting.
-
-### Skills Demonstrated
-
-- Power BI
-- CRM Analytics
-- KPI Design
-- Dashboard Development
-- Process Improvement
-- Data Visualisation
-- Stakeholder Reporting
-- Operations Strategy
+The project demonstrates how operational data can be transformed into executive dashboards, conversion metrics, reporting frameworks and process improvements that support continuous operational excellence.
 
 ---
 
-### Project Files
+# 📊 Deliverables
 
-📄 Operations Analytics Case Study.pdf
-
----
-
-*All data has been anonymised for portfolio purposes.*
-
-# Operations Analytics Case Study
-### Power BI • Revenue Operations • Customer Journey Analytics • Process Improvement
-
----
-
-## Project Overview
-
-This project demonstrates how operational analytics can be used to improve customer acquisition, activation and long-term retention by identifying bottlenecks throughout the customer journey.
-
-The objective was to replace manual reporting with KPI-driven decision making by designing a Power BI dashboard that tracks customers through each stage of the operational pipeline, measures conversion performance, and highlights opportunities for process improvement.
-
-Although this project uses anonymised customer data, the analytical methodology reflects the same principles used in Sales Operations, Revenue Operations and Business Intelligence environments.
-
----
-
-# Executive Dashboard
-
-The Executive Dashboard provides leadership with a high-level operational overview of the entire customer pipeline.
-
-It enables decision makers to monitor overall performance through a combination of KPIs, trend analysis and pipeline reporting.
-
-### Key Metrics
-
-- Total Leads
-- Qualified Leads
-- Activated Customers
-- Retained Customers
-- Weekly Lead Volume
-- Overall Funnel Performance
-- Pipeline Conversion Rates
-- Individual Lead Records
-
-### Operational Value
-
-This dashboard enables leadership to quickly assess pipeline health, monitor conversion performance and identify areas requiring operational intervention.
-
-![Executive Dashboard] <img src="01-Executive%20Dashboard.png" width="900">
-
----
-
-# Conversion Analysis
-
-The Conversion Analysis dashboard measures how efficiently qualified leads progress through the customer lifecycle after qualification.
-
-Rather than simply reporting totals, the dashboard focuses on measuring operational efficiency throughout the conversion process.
-
-### Key Metrics
-
-- Qualified Lead-to-Activation Rate
-- Qualified Lead-to-Retention Rate
-- Average Days to Activation
-- Monthly Cohort Performance
-- Conversion Rate Trends
-
-### Operational Value
-
-Monitoring conversion performance highlights where friction exists within the customer journey and helps identify opportunities to improve activation, retention and overall operational efficiency.
-
-![Conversion Analysis] <img src="02-Conversion%20Analysis.png" width="900">
-
----
-
-# Lead Segmentation
-
-The Lead Segmentation dashboard analyses the demographic composition of the lead pipeline and compares overall lead distribution with qualification outcomes.
-
-Segmenting leads provides additional context behind conversion performance and supports more targeted engagement strategies.
-
-### Key Analysis
-
-- Overall Lead Demographics
-- Qualification by Gender
-- Qualified Lead Demographics
-
-### Operational Value
-
-Understanding which customer segments qualify most successfully enables engagement strategies to become more targeted and data-driven.
-
-![Lead Segmentation] <img src="03-Lead%20Segmentation.png" width="900">
-
----
-
-# Segment Performance
-
-The Segment Performance dashboard evaluates how different qualified lead segments perform after entering the operational pipeline.
-
-Rather than treating every lead equally, the dashboard measures activation performance across customer segments to identify where engagement strategies are working most effectively.
-
-### Key Analysis
-
-- Qualified Lead Demographics
-- Activated Customer Segments
-- Activation Rates by Segment
-
-### Operational Value
-
-Comparing activation performance across customer segments helps identify where follow-up processes are effective and where additional workflow optimisation may improve conversion outcomes.
-
-![Segment Performance] <img src="04-Segment%20Peformance.png" width="900">
-
----
-
-# Skills Demonstrated
-
-- Power BI Dashboard Development
-- KPI Design & Performance Measurement
-- Revenue Operations Reporting
-- Customer Journey Analytics
-- Funnel Analysis
-- Cohort Analysis
-- Lead Segmentation
+- Executive Operations Dashboard
+- CRM & Funnel Analysis
+- KPI Reporting Framework
 - Conversion Analysis
+- Customer Segmentation
+- Operational Process Mapping
+- Process Improvement Recommendations
 - Executive Reporting
-- Data Visualisation
+- Baseline Performance Metrics
+- Continuous Improvement Framework
+
+---
+
+# 📄 Full Case Study
+
+The complete project documentation is available here:
+
+**📁 Operations_Analytics_Case_Study.pdf**
+
+This document contains:
+
+- Project Background
+- Business Problem
+- Operational Analysis
+- KPI Design
+- Dashboard Walkthrough
+- Process Improvements
+- Operational Recommendations
+- Future Roadmap
+
+---
+
+# 🖥 Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](01-Executive%20Dashboard.png)
+
+### Conversion Analysis
+
+![Conversion Analysis](02-Conversion%20Analysis.png)
+
+### Lead Segmentation
+
+![Lead Segmentation](03-Lead%20Segmentation.png)
+
+### Segment Performance
+
+![Segment Performance](04-Segment%20Peformance.png)
+
+---
+
+# 🛠 Skills Demonstrated
+
+### Operations
+
+- Sales Operations
+- Revenue Operations
+- CRM Analytics
 - Process Improvement
-- Business Analytics
-- DAX Measures
-- Data Modelling
-- Data Storytelling
+- Operational Reporting
+- KPI Development
+- Data Governance
+- Executive Reporting
+- Stakeholder Reporting
 
----
+### Technical
 
-# Tools Used
-
-- Power BI
+- Microsoft Power BI
 - Microsoft Excel
-- DAX
-- Power Query
-- Data Modelling
+- Google Sheets
+- CRM Data Analysis
+- Dashboard Design
+- Data Visualisation
+- Workflow Design
+
+### Analytical
+
+- Funnel Analysis
+- Conversion Analysis
+- Cohort Thinking
+- Operational Metrics
+- Trend Analysis
+- Performance Monitoring
+- Data-Driven Decision Making
 
 ---
 
-# Key Outcomes
+# 🚀 Current Development
 
-- Designed an end-to-end operational reporting solution.
-- Built executive dashboards to support data-driven decision making.
-- Developed KPI frameworks to monitor customer progression through the operational pipeline.
-- Applied customer journey analytics to identify conversion bottlenecks.
-- Demonstrated how operational reporting can support continuous process improvement.
+The project is currently being expanded to include workflow automation using **Make.com**.
+
+The next phase demonstrates how repetitive operational processes can be automated to improve efficiency, reduce manual administration, increase consistency, and eliminate single points of failure within operational workflows.
+
+Planned additions include:
+
+- Make.com workflow automation
+- AI-assisted operational workflows
+- Automated KPI reporting
+- CRM process automation
+- Automated notifications
+- End-to-end operational workflow design
 
 ---
 
-# About this Project
+# 🎯 Key Outcomes
 
-This project was independently designed and developed as part of my Operations Analytics portfolio.
+This project demonstrates my ability to:
 
-The dashboard demonstrates my approach to using data to improve operational performance, support strategic decision-making and build scalable reporting solutions relevant to Revenue Operations, Sales Operations and Business Intelligence roles.
+- Transform operational data into meaningful business insights
+- Build executive-level Power BI dashboards
+- Design KPI reporting frameworks
+- Identify operational bottlenecks
+- Recommend scalable process improvements
+- Build baseline performance reporting
+- Support data-driven operational decision-making
+- Design automation opportunities to improve operational efficiency
+
+---
+
+# 👤 About Me
+
+I am an Operations & Analytics professional with experience in CRM analytics, sales operations, reporting, process improvement and Power BI dashboard development.
+
+I enjoy solving operational problems through data, process optimisation and automation, with a focus on building scalable systems that improve business performance.
+
+---
+
+## 📫 Connect
+
+**LinkedIn**
+
+https://linkedin.com/in/jonnell-bampo
+
+---
+
+Thank you for visiting my portfolio.
