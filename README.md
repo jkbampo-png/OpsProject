@@ -33,11 +33,10 @@ The project demonstrates how operational data can be transformed into executive 
 
 ---
 
-# 📄 Full Case Study
 
-The complete project documentation is available here:
+## 📄 View the Full Case Study
 
-**📁Operations Analytics Project.pdf**
+👉 **[Click here to open the full Operations Analytics Case Study (PDF)](./Operations%20Analytics%20Project.pdf)**
 
 This document contains:
 
