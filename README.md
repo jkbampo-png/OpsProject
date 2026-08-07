@@ -1,4 +1,5 @@
-# Operations Analytics Portfolio
+# Operations Analytics Project
+Operations Analytics | CRM Analytics | Revenue Operations | Process Improvement | Power BI
 
 Welcome to my Operations Analytics portfolio.
 
