@@ -37,7 +37,7 @@ The project demonstrates how operational data can be transformed into executive 
 
 The complete project documentation is available here:
 
-**📁 Operations Analytics Project.pdf**
+**📁Operations Analytics Project.pdf**
 
 This document contains:
 
